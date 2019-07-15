@@ -5,6 +5,8 @@ This repository will serve as the central information point for the Tallinn Summ
 
 **Last year's website is available [here](https://eittallinn.wordpress.com/)**.
 
+
+
 ## Schedule
 The schedule (also below) for this year's summer school is available [here](/important_documents/eit-urban-mobillity-schedule.xlsx).
 
