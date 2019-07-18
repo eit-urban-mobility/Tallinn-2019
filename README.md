@@ -5,7 +5,7 @@ This repository will serve as the central information point for the Tallinn Summ
 
 **Last year's website is available [here](https://eittallinn.wordpress.com/)**.
 
-**2018 Final Presentations are [here](https://drive.google.com/file/d/1yD3K2a31FejF0P9E5yWL9PfGIiyVVWMX/view?usp=sharing)**
+**2018 Final Presentations are [here](https://drive.google.com/open?id=1czTutcsGEVGkpozSvDF2pghy1hGxP3PP)**
 
 
 ## Schedule
